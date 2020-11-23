@@ -1,4 +1,4 @@
 # SQuAD_project
 baseline model\
-BERT fine-tuning\
+BERT fine-tuning
 
